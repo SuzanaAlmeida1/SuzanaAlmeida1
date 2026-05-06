@@ -1,6 +1,10 @@
 # SuzanaAlmeida1
 
- 
+ Profissional com mais de 14 anos de experiência em telecom e pré-vendas consultiva, atuando na construção de soluções complexas para clientes enterprise.
+Especialista em traduzir necessidades de negócio em arquiteturas de tecnologia, com foco em Cloud (AWS), conectividade e segurança, atuando como ponte entre áreas técnicas e comerciais.
+Experiência sólida na condução de reuniões estratégicas, levantamento de requisitos, desenho de soluções e apresentação executiva com foco em geração de valor.
+Ao longo da minha trajetória, atuei diretamente na evolução de ofertas e na construção de soluções customizadas, sempre com foco em viabilidade técnica, impacto no negócio e experiência do cliente.
+Atualmente em processo de especialização em Cloud e Inteligência Artificial, direcionando minha carreira para atuação como Solution Architect em ambientes cada vez mais digitais e orientados a dados.
 
 ## Conecte-se comigo
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suzana-almeida-b3638a36/)
