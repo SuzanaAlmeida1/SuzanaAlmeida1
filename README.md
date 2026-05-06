@@ -1,8 +1,6 @@
 # SuzanaAlmeida1
 
- Amo trabalhar com tecnologia, foi a minha primeira escolha desde o começo da vida profissional e por esse motivo optei por estudar engenharia. Aprendizado contínuo faz parte do meu dia a dia, passei pelo ensino técnico, graduação e posteriormente pós graduações procurando sempre estar atualizada. Acompanho as tendências e sigo aprendendo, experimentando novas experiências e sendo autodidata em alguns momentos.
-
-Aprender sobre desenvolvimento de software tem sido bastante desafiador. Estou aproveitando esse momento para explorar a capacidade de me reinventar.
+ 
 
 ## Conecte-se comigo
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suzana-almeida-b3638a36/)
